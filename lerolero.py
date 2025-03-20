@@ -6,7 +6,7 @@ Gera frases de efeito sem significado real."""
 import random
 
 parte1=[
-  "O sistema em desenvolvimento",
+  "O sistema em desenvolvimento amizade",
   "O novo protocolo de comunicação",
   "O algoritmo otimizado"
 
